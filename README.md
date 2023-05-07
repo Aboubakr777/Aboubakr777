@@ -14,5 +14,7 @@ https://github.com/BoubkerElmaayouf
 
 ## About Me :
 
-https://github.com/Aboubakr777/Aboubakr777/blob/main/thedude.gif?raw=true
+<img src="[https://github.com/BoubkerElmaayouf/BoubkerElmaayouf/blob/main/wolf.gif?raw=true](https://github.com/Aboubakr777/Aboubakr777/blob/main/thedude.gif?raw=true)" width="1000" height="340" >
+
+
 
